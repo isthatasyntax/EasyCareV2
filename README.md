@@ -6,3 +6,10 @@ Appointment management: Say goodbye to scheduling conflicts and missed appointme
 Patient information: Keeping track of patient information has never been easier. With Easy Care, caregivers can securely store and access patient records, medical history and vital details ensuring continuity of care and personalised support.
 
 This is all the files for the website EasyCare which is a project for me and my team's collaborative development project. 
+This is the link to the website: easycare.kesug.com
+These are a few usernames and passwords you can use to access the website's features
+Username      Password
+admin          admin
+gracie         p@ssword
+JamSam         pass432
+jess_h         p@ssword 
