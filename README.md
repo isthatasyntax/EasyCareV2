@@ -7,6 +7,7 @@ Patient information: Keeping track of patient information has never been easier.
 
 This is all the files for the website EasyCare which is a project for me and my team's collaborative development project. 
 This is the link to the website: easycare.kesug.com
+
 These are a few usernames and passwords you can use to access the website's features
 (admin--admin)
 (gracie--p@ssword)
